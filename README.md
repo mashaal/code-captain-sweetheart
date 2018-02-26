@@ -3,6 +3,7 @@
 > tuff but sweet [code](https://code.visualstudio.com/) theme
 
 ![](https://pbs.twimg.com/media/C3hxsYCW8AEEwSW.png:large)
+![](https://raw.githubusercontent.com/mashaal/code-captain-sweetheart/master/preview.png)
 
 ## License
 
