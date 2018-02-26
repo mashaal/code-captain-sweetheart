@@ -1,0 +1,22 @@
+{
+  "name": "captain-sweetheart",
+  "displayName": "Captain Sweetheart",
+  "description": "tuff but sweet theme",
+  "version": "0.0.2",
+  "publisher": "ultradracula",
+  "repository": "https://github.com/mashaal/code-captain-sweetheart.git",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Captain Sweetheart",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Captain Sweetheart-color-theme.json"
+      }
+    ]
+  }
+}
