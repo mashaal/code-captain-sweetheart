@@ -121,6 +121,7 @@
         "keyword.other"
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#ce839d"
       }
     },
